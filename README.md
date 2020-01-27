@@ -6,9 +6,14 @@ Write an accurate sales prediction application to reduce resources and increase 
 for bakeries. \
 First creating and working with dummy data. Goal: use/ get real sales data to adjust prediction
 
-FUTURE GOALS
+FUTURE GOALS/REQUIREMENTS:
+* Read csv-Input and save in python-object to fast read data
+* data cleansing for not allowed input-data
+* figure importance of MSE and R² for prediction out
+* before calculating the prediction - correlation is necessary
 * predict number of sales of product x for the next day (d+1) - under: Ceteris paribus \
 * Statistical analysis techniques 
+* figure out: non-linear-regression 
 ## APPLICATION
 This application is written in Python.
 
