@@ -14,6 +14,7 @@ FUTURE GOALS/REQUIREMENTS:
 * predict number of sales of product x for the next day (d+1) - under: Ceteris paribus \
 * Statistical analysis techniques 
 * figure out: non-linear-regression 
+
 ## APPLICATION
 This application is written in Python.
 
@@ -32,7 +33,7 @@ Thank you for helping and improving this work.
 4. Push to the Branch (`git push origin feature/Feature`)
 
 ## LICENCE 
-Standard Github license. Feel free to view and fork this project for personal use.
+GNU GENERAL PUBLIC LICENSE. Feel free to view and fork this project for personal use.
 
 ## GET IN CONTACT 
 Github - [gremarsl](https://github.com/gremarsl)\
